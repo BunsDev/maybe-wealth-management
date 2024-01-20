@@ -1,6 +1,6 @@
 {
     "name": "maybe-finance",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "license": "MIT",
     "scripts": {
         "dev": "nx run-many --target serve --projects=client,server,workers --parallel --host 0.0.0.0 --nx-bail=true --maxParallel=100",
